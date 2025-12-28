@@ -29,5 +29,3 @@ O PONG passou por uma cirurgia | Do Zero ao Pixel (T2 E3)](https://www.youtube.c
 <img src="https://github.com/user-attachments/assets/dded9073-78aa-478e-ab2b-f5a42d21d6a2" width="30" height="30"> OpenGL
 
 <img src="https://github.com/user-attachments/assets/ef9fb0e1-d0fd-4632-bbf5-e1623cd32a6a" width="30" height="30"> OpenTK
-
-<img src="https://github.com/user-attachments/assets/e59048c2-1bb9-4b35-93e4-f9769cfffc68" width="30" height="30"> StbImageSharp
